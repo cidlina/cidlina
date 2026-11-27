@@ -1,68 +1,41 @@
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                          FFFFFD                                              
-                                                                      FFFFFFFFFFFFFD                                          
-                                                         FFFFFF      FFFFFFFFFFFFFFFF                                         
-                                                      FFFFFFFFFF    FFFFFFFFFFFFFFFFFF                                        
-                                   FFFFF        FFFFFFFFFFFFFFFF   FFFFFFF      FFFFFFF                                       
-                                  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  FFFFFFFD     FFFFFFFF                                       
-                                  FFFFFFFFFFFFFFFFFFFFFFF FFFFFF  FFFFFFF     FFFFFFFF                                        
-                                     FFFFFFFFFFFFFFF      FFFFFFFFFFFFFFF   FFFFFFFFF                                         
-                                                          FFFFFFFFFFFFFFD DFFFFFFFFF                                          
-                                                          FFFFFFFFFFFFFFFFFFFFFFFFF                                           
-                                                          FFFFFFFFFFFFFFFFFFFFFF                                              
-                                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                
-                                     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF         DFFFFFF                                    
-                                   FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF         DFFFFFFF                                    
-                                 FFFFFFFFFFFF            FFFFFFF  FFFFFFF        FFFFFFFF                                     
-                                 FFFFFFFF               FFFFFFF   FFFFFFF       FFFFFFFF                                      
-                                FFFFFFFF               FFFFFFFF    FFFFFFF    FFFFFFFFF                                       
-                                FFFFFFFF              FFFFFFFF      FFFFFFFFFFFFFFFFF                                         
-                                FFFFFFFF             FFFFFFFF        FFFFFFFFFFFFFFF                                          
-                                 FFFFFFFF         FFFFFFFFFF           FFFFFFFFFF                                             
-                                  FFFFFFFFFFFFFFFFFFFFFFFF                                                                    
-                                    FFFFFFFFFFFFFFFFFFFF                                                                      
-                                      FFFFFFFFFFFFFFFF                                                                        
-                                           FFFFFF                                                                             
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
-                                                                                                                              
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                              AAAA                          
+                                           AAAAAAAAAA                       
+                                  AAAA    AAAAAAAAAAAA                      
+                               AAAAAAAA  AAAAAA  AAAAAA                     
+                 AAAAAAAAAAAAAAAAAAAAAA  AAAAA    AAAAA                     
+                 AAAAAAAAAAAAAAAAAAAAAA AAAAA    AAAAAA                     
+                   AAAAAAAAAAA    AAAAA AAAAA   AAAAAA                      
+                                  AAAAA AAAAA AAAAAAA                       
+                                  AAAAA AAAAAAAAAAAA                        
+                         AAAAAAAAAAAAAAAAAAAAAAAAA                          
+                    AAAAAAAAAAAAAAAAAAAAAAAAAAA      AAAA                   
+                  AAAAAAAAAAAAAAAAAAAAAAAAAAA       AAAAAA                  
+                 AAAAAAAA         AAAAA AAAAA      AAAAAA                   
+                AAAAAA           AAAAA  AAAAAA    AAAAAA                    
+                AAAAA           AAAAAA   AAAAAA AAAAAAA                     
+                AAAAA          AAAAAA     AAAAAAAAAAA                       
+                 AAAAA        AAAAAA       AAAAAAAA                         
+                 AAAAAAAA  AAAAAAAA                                         
+                   AAAAAAAAAAAAAA                                           
+                     AAAAAAAAAA                                             
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
